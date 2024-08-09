@@ -2,6 +2,20 @@
 @tailwind components;
 @tailwind utilities;
 
+body::-webkit-scrollbar {
+  width: 8px;
+}
+
+body::-webkit-scrollbar-track {
+  background: rgba(0,0,0,0.5);        /* цвет дорожки */
+}
+body::-webkit-scrollbar-thumb {
+  background-color: rgba(100, 100, 100, 0.551);    /* цвет плашки */
+  border-radius: 20px;       /* закругления плашки */
+  border: 3px solid rgba(128, 128, 128, 0.172); 
+  ; /* padding вокруг плашки */
+}
+
 :root {
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;

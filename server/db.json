@@ -2,9 +2,20 @@
     "articles": [
         {
             "id": 1,
-            "title": "Article 1",
-            "image": "https://picsum.photos/200/300",
-            "link": "https://picsum.photos/200/300"
+            "title": "10к на лаки джет",
+            "image": "https://telegra.ph/file/b6e3e2fb4893a53d2b8c0.jpg",
+            "link": "https://telegra.ph/Zarabatyvaem-10-tysyach-v-den-na-Lucky-Jet-05-10",
+            "level": "Легкая & Приватная",
+            "description": "Это самая актуальная статья по абузу игры 1вин Lucky Jet"
+        },
+        {
+            "id": 1,
+            "title": "От 5 до 50к на абузе кейсов",
+            "image": "https://telegra.ph/file/f70a46dc10aa20f64a426.jpg",
+            "link": "https://images.unsplash.com/photo-1511193311914-0346f16efe90?q=80&w=2073&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "level": "Средняя & Приватная",
+            "description": "Абузим кейсы 1вин пока не пофиксили"
         }
+        
     ]
 }
